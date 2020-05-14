@@ -6,8 +6,8 @@ Debugging Angular with Visual Studio Code.
 | Setting | Value |
 | --- | --- |
 | Purpose | Debugging with VS Code using a simple Angular project |
-| Framework | Angular |
-| Language | TypeScript |
+| Client Framework | Angular |
+| Client Language | TypeScript |
 | Architecture | npm/node |
 | IDE | Visual Studio Code |
 | License | GPL v3 |
