@@ -9,6 +9,13 @@ export class AppComponent {
   title = 'client';
 
   constructor() {
-    console.log('constructor called');
+    console.log('constructor called...');
+  }
+
+  /**
+   * https://angular.io/guide/lifecycle-hooks
+   */
+  ngAfterViewInit() {
+    console.log("after the view initializes...");
   }
 }
