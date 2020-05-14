@@ -26,7 +26,7 @@ The app generation is based on https://angular.io/guide/setup-local.
 
 ### Debug with Visual Studio Code
 
-#### Configure Debugger
+#### Configure Launchers
 
 1. [launch.json](./.vscode/launch.json)
 2. [tasks.json](./.vscode/tasks.json)
