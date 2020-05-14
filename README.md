@@ -1,6 +1,7 @@
 # Debugging Angular
 Debugging Angular with Visual Studio Code.
 
+[![Debugging Video Tutorial](https://img.youtube.com/vi/H-sMmxfNxBM/0.jpg)](https://www.youtube.com/watch?v=H-sMmxfNxBM)
 
 ## Project Configuration
 | Setting | Value |
@@ -11,7 +12,8 @@ Debugging Angular with Visual Studio Code.
 | Architecture | npm/node |
 | IDE | Visual Studio Code |
 | License | GPL v3 |
-| Tutorial | TODO |
+| Tutorial | [Youtube Tutorial](https://www.youtube.com/watch?v=H-sMmxfNxBM) |
+
 
 
 ## Generate Application
