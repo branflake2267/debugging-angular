@@ -20,7 +20,7 @@ The app generation is based on https://angular.io/guide/setup-local.
 * Run `npm install -g @angular/cli` - Install the app generator CLI tool.
 * Run `ng new client` - Generate an application, I named it `client`.
 * Run `cd client` - Change directory to the app.
-* Run `ng serve --open` - Started the server and open Chrome. 
+* Run `ng serve --open` - Start the compiler, web server and open Chrome. 
 
 
 ## Debugging
