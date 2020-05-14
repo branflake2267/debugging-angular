@@ -25,15 +25,17 @@ The app generation is based on https://angular.io/guide/setup-local.
 ## Debugging
 
 ### Debug with Visual Studio Code
-Launching and debugging in chrome will allow you to use break points in the source code. 
-The launchers are based on https://github.com/microsoft/vscode-recipes/tree/master/Angular-CLI.
-
-* Run the Visual Studio Code Launcher `Launch ng serve & Chrome`
 
 #### Configure Debugger
 
 1. [launch.json](./.vscode/launch.json)
 2. [tasks.json](./.vscode/tasks.json)
+
+### Launchers
+Launching and debugging in chrome will allow you to use break points in the source code. 
+The launchers are based on https://github.com/microsoft/vscode-recipes/tree/master/Angular-CLI.
+
+* Run the Visual Studio Code Launcher `Launch ng serve & Chrome`
 
 
 ### Debug with npm
