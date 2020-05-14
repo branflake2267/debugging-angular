@@ -5,7 +5,7 @@ Debugging Angular with Visual Studio Code.
 ## Project Configuration
 | Setting | Value |
 | --- | --- |
-| Purpose | Simple Angular project debugging |
+| Purpose | Debugging with VS Code using a simple Angular project |
 | Framework | Angular |
 | Language | TypeScript |
 | Architecture | npm/node |
